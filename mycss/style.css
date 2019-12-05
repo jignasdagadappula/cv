@@ -1,0 +1,100 @@
+body{
+ margin: 0;
+ margin-bottom: 0;
+ text-align: center;
+}
+h1{
+  margin: 0;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Great Vibes', cursive;
+  color:#d6e5fa
+
+}
+
+  h3{
+  font-family: 'Yeseva One', cursive;
+}
+.para{
+  text-align: center;
+  font-size: 30px;
+  color:#e5dfdf
+
+}
+
+
+.top{
+  background-color: #66BFBF;
+  padding-top: 100px;
+
+  }
+  .middle{
+    background-color: #0000;
+    margin: 100px auto 100px auto;
+
+
+  }
+  .bottom{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+
+  }
+  .top-cloud{
+    position: absolute;
+    right: 250px;
+    top:50px;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left:300px;
+  }
+  .profile{
+    border-radius: 50%;
+    image-resolution: snap;
+
+  }
+  .intro{
+    font-size: 20px;
+    line-height: 2;
+    color:#5f6769
+
+
+  }
+  h2{
+    font-size: 50px;
+    font-family: 'Quantico', sans-serif;
+  }
+  .skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+  }
+  .skills-1{
+    float: left;
+    margin-right: 30px;
+
+  }
+  .book-2{
+    float:right;
+    margin-left: 30px;
+
+  }
+  a{
+    color:#11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+a:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color:#EAF6F6;
+}
+hr{
+  border: dotted #5f6769 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
